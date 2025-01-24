@@ -7,6 +7,7 @@ This is a WireGuard frontend written in python. Linux only.
 # Features
 - Switching between configs
 - Provides traffic stats
+- Delete configs
 - Generate keys
 - Create Configs
 
