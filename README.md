@@ -1,6 +1,9 @@
 # Description
 This is a WireGuard frontend written in python. Linux only.
 
+![image](https://github.com/user-attachments/assets/57ff90c0-74b0-4375-b977-7e1cefe9b514)
+
+
 # Features
 - Switching between configs
 - Provides traffic stats
