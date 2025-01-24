@@ -1,0 +1,12 @@
+__pycache__/
+bin/
+build/
+dist/
+include/
+lib/
+lib64/
+lib64
+main.spec
+wireguard_gui.spec
+pyvenv.cfg
+test.py

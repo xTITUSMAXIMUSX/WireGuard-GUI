@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=WireGuard
+Comment=WireGuard Frontend Application
+Exec=/home/user/.local/share/applications/WireGuard/wg.sh
+Icon=/home/user/.local/share/applications/WireGuard/assets/wireguard_logo.png
+Terminal=false
+Type=Application
+Categories=Utility;
